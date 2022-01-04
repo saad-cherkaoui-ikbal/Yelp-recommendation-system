@@ -19,3 +19,4 @@ The business table contains a lot of different information about each establishe
   
 <p align="justify">At the end, I ended up creating 7 distinct clusters which will later come into play for the recommendation system.</p>
 
+## The reviews table
