@@ -2,7 +2,7 @@
 
 Based on a Yelp database containing multiple data sets, I'm attempting to build a recommendation system for both users and businesses
 
-<p align="justify">The database provided by Yelp contains a lot of useful information, whether it be with details about the businesses and their activities, as well information about the users and their involvement in terms of reviews and comments. The following link gives a detailed overview of the content of each table : https://www.yelp.com/dataset/documentation/main</p>
+The database provided by Yelp contains a lot of useful information, whether it be with details about the businesses and their activities, as well information about the users and their involvement in terms of reviews and comments. The following link gives a detailed overview of the content of each table : https://www.yelp.com/dataset/documentation/main
 
 ## The business table
 
